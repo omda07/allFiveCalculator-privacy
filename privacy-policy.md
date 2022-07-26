@@ -3,7 +3,7 @@ Privacy Policy
 
 ### Introduction  
 Our privacy policy will help you understand what information we collect at All Five Calculator, how All Five Calculator uses it, and what choices you have.
-A-Omda built the All Five Calculator app as a free app. This SERVICE is provided by All Five Calculator at no cost and is intended for use as is.
+A-Omda built the All Five Calculator app as a free app. This SERVICE is provided by A-Omda at no cost and is intended for use as is.
 There is no personal data collected for using our service.  
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
 
